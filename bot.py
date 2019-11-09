@@ -165,4 +165,4 @@ async def on_member_join(member):
     conn.commit()
 
 
-bot.run("NDg0MzYxMjk3MzYyODEyOTM3.D1nSGQ.hUuAQf1q4leiS4ln0OApEuOQ7wk")
+bot.run()
